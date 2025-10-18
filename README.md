@@ -29,8 +29,19 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,vscode,git,github,postman,mysql,mongodb" />
+  <!-- Main Stack -->
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,vscode,git,github,postman,sqlserver,mongodb" />
 </p>
+
+<p align="center">
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-0A66C2?style=for-the-badge&logo=signal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hangfire-CC0000?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
 
 
 ---

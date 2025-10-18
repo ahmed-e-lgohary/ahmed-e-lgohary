@@ -35,6 +35,13 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 </div>
 
 ---
+## 🌀 3D Model Preview  
+
+<p align="center">
+  <a href="https://skfb.ly/pC9OZ" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%203D%20Model%20on-Sketchfab-1e1e1e?style=for-the-badge&logo=sketchfab&logoColor=22c55e" alt="View 3D Model on Sketchfab" />
+  </a>
+</p>
 
 <div align="center">
 

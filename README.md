@@ -39,19 +39,12 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ---
 
-## 🧩 Focus & Skills
+## 🧠 Skill Overview
 
-<div align="center">
-  
-| Skill | Level |
-|-------|--------|
-| 🟦 C# / .NET | ![100%](https://progress-bar.dev/100/?title=Expert&width=200&color=512BD4) |
-| 🟩 Entity Framework / LINQ | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=22C55E) |
-| 🟨 Database Design & Optimization | ![85%](https://progress-bar.dev/85/?title=Strong&width=200&color=EAB308) |
-| 🟧 API Development (REST) | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=F97316) |
-| 🟪 Clean Architecture | ![75%](https://progress-bar.dev/75/?title=Good&width=200&color=A855F7) |
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C#/.NET','Entity Framework','Database Design','API Dev','Clean Architecture'],datasets:[{data:[30,25,20,15,10],backgroundColor:['#512BD4','#22C55E','#EAB308','#F97316','#A855F7']}]},options:{plugins:{legend:{labels:{color:'white'}}},backgroundColor:'#0d1117'}}" width="400" />
+</p>
 
-</div>
 
 
 ## 📫 Connect With Me  

@@ -63,17 +63,25 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ## 📫 Connect With Me  
 
-<p align="center">
-  <a href="https://linkedin.com/in/ahmed-elgohary7">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center" style="margin-top: 20px;">
+
+  <a href="https://linkedin.com/in/ahmed-elgohary7" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmedelgoharyy7@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:ahmedelgoharyy7@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  <a href="https://github.com/ahmedelgohary" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+<br><br>
+
+<p align="center" style="color:#9E9E9E; font-size:14px;">
+  ⭐ <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
 
----
-
-<p align="center" style="color:#9E9E9E;">
-⭐ <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
-</p>

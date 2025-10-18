@@ -27,21 +27,20 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ---
 
-## ⚙️ Tech Stack  
+## 🏆 Goals Timeline  
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
+<div align="center">
 
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+🟩 **2025** — Master advanced **.NET & API Development**  
+<br>⬇️  
+🟦 **2026** — Contribute to **Open-Source** and team projects  
+<br>⬇️  
+🟨 **2027** — Build a scalable **ERP / SaaS platform**  
+<br>⬇️  
+🟧 **2028** — Lead a **Software Architecture** project  
 
 </div>
+
 
 
 

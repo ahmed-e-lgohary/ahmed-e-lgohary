@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="36%" alt="Ahmed Elgohary" style="border-radius: 50%; margin-right: 15px;" align="right"/>
-<p align="center" style="font-size: 28px; font-weight: bold; color: #4FC3F7; margin: 0;">
+<p align="center" style="font-size: 208px; font-weight: bold; color: #4FC3F7; margin: 0;">
 👋 Hi, I'm Ahmed Elgohary
 </p>
     <img src="https://img.shields.io/badge/Role-Back--End%20Developer-3b82f6?style=for-the-badge" />

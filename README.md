@@ -8,8 +8,7 @@
     <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20APIs%20%7C%20EF%20Core-181717?style=for-the-badge" />
   <br>
 <br>
-<br>
-<br>
+
 
 </h1>
    

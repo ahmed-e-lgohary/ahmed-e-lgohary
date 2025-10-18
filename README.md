@@ -18,11 +18,9 @@
 
 ### 🧠 About Me  
 
-I'm a **Computer Science student** passionate about **Back-End development** and clean, scalable architectures.  
-I love working with **C#**, **.NET**, and **Entity Framework**, designing efficient systems and APIs.  
+I am a fourth-year Computer Science student specializing in Information Systems, with a strong focus on back-end development using ASP.NET Core. I also have a growing passion for Data Science and Artificial Intelligence, and I am constantly seeking opportunities to learn and apply new technologies. I thrive on challenges that push me to grow both professionally and personally. My goal is to build efficient, robust, and user-friendly solutions while continuously improving my skills and contributing to impactful projects.
 
-💡 **Currently learning:** Advanced APIs, Database optimization, and .NET Core  
-🎮 **Fun fact:** I love **video games** and **Boxing** — they sharpen my focus and strategy!  
+
 
 ---
 
@@ -30,7 +28,7 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ### ⚙️ My Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,postgresql,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,mongo,sql,Postman,c#,typescript" /><br>
 
 </div>
 

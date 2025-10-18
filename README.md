@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/2c3cd25a-2a9c-4347-a7d2-a39833ded8d5
-" width="100%" alt="Ahmed Elgohary Header" />
+  <img src="https://github.com/user-attachments/assets/2c3cd25a-2a9c-4347-a7d2-a39833ded8d5" width="100%" alt="Ahmed Elgohary Header" />
 
   <h1 style="font-size: 36px; color: #4FC3F7; font-weight: bold; margin-top: 10px;">
     👋 Hi, I'm Ahmed Elgohary

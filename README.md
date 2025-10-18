@@ -28,9 +28,12 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
 ### ⚙️ My Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,mongo,sql,Postman,c#,typescript" /><br>
+<h2 align="center">⚙️ Tech Stack</h2>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,vscode,git,github,postman,sqlserver,mongodb" />
+</p>
+
 
 ---
 

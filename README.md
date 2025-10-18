@@ -1,10 +1,8 @@
 <!-- 🌑 Dark Mode GitHub Profile README -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="40%" alt="Ahmed Elgohary" style="border-radius: 50%; margin-right: 15px;" align="right"/>
-
+  <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="36%" alt="Ahmed Elgohary" style="border-radius: 50%; margin-right: 15px;" align="right"/>
   <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Ahmed Elgohary</span></h1>
-
   <p align="center">
     <img src="https://img.shields.io/badge/Role-Back--End%20Developer-3b82f6?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Field-Computer%20Science-22c55e?style=for-the-badge" />

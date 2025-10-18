@@ -29,20 +29,33 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ## 🧠 Skill Overview
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C#/.NET','Entity Framework','Database Design','API Dev','Clean Architecture'],datasets:[{data:[30,25,20,15,10],backgroundColor:['#512BD4','#22C55E','#EAB308','#F97316','#A855F7']}]},options:{plugins:{legend:{labels:{color:'white'}}},backgroundColor:'#0d1117'}}" width="400" />
-</p>
+## ⚙️ Tech Stack  
 
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
+  
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-
+</div>
 
 
 ---
 
 ## 🧠 Skill Overview
 
+## 📊 GitHub Overview  
+
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C#/.NET','Entity Framework','Database Design','API Dev','Clean Architecture'],datasets:[{data:[30,25,20,15,10],backgroundColor:['#512BD4','#22C55E','#EAB308','#F97316','#A855F7']}]},options:{plugins:{legend:{labels:{color:'white'}}},backgroundColor:'#0d1117'}}" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelgohary&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedelgohary&theme=react&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 

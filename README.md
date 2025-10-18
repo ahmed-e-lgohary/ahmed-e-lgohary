@@ -27,19 +27,11 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ---
 
-## 🏆 Goals Timeline  
+## 🧠 Skill Overview
 
-<div align="center">
-
-🟩 **2025** — Master advanced **.NET & API Development**  
-<br>⬇️  
-🟦 **2026** — Contribute to **Open-Source** and team projects  
-<br>⬇️  
-🟨 **2027** — Build a scalable **ERP / SaaS platform**  
-<br>⬇️  
-🟧 **2028** — Lead a **Software Architecture** project  
-
-</div>
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C#/.NET','Entity Framework','Database Design','API Dev','Clean Architecture'],datasets:[{data:[30,25,20,15,10],backgroundColor:['#512BD4','#22C55E','#EAB308','#F97316','#A855F7']}]},options:{plugins:{legend:{labels:{color:'white'}}},backgroundColor:'#0d1117'}}" width="400" />
+</p>
 
 
 

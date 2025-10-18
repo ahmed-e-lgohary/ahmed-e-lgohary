@@ -4,9 +4,11 @@
 
 ---
 
-<div align="left">
+<div align="right">
 
-<img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="280" alt="profile image" align="left" style="margin-right: 20px; border-radius: 10px;" />
+<img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="280" alt="profile image" align="right" style="margin-left: 20px; border-radius: 10px;" />
+
+</div>
 
 ### ⚙️ My Main Tools & Stack  
 
@@ -19,13 +21,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools:**  
+**Tools & IDEs:**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ---
 

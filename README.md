@@ -1,10 +1,16 @@
 <div align="center">
 <h1 align="center" style="font-size: 28px; font-weight: bold; color: #4FC3F7; margin: 0;">
   <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="36%" alt="Ahmed Elgohary" style="border-radius: 50%; margin-right: 15px;" align="right"/>
-👋 Hi, I'm Ahmed Elgohary /n
+👋 Hi, I'm Ahmed Elgohary <br>
+<br>
    <img src="https://img.shields.io/badge/Role-Back--End%20Developer-3b82f6?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Field-Computer%20Science-22c55e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20APIs%20%7C%20EF%20Core-181717?style=for-the-badge" />
+  <br>
+<br>
+<br>
+<br>
+
 </h1>
    
 </div>

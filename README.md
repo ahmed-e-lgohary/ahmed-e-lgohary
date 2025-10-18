@@ -48,22 +48,20 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ---
 
-## 🧩 Focus Areas  
+## 🧩 Focus & Skills
 
-- ⚙️ **C#**, **OOP**, **LINQ**, **Entity Framework**  
-- 🗄️ **Database Design** & **Optimization**  
-- 🔗 **API Development** (RESTful)  
-- 🧰 **.NET Core** & **Clean Architecture**
+<div align="center">
+  
+| Skill | Level |
+|-------|--------|
+| 🟦 C# / .NET | ![100%](https://progress-bar.dev/100/?title=Expert&width=200&color=512BD4) |
+| 🟩 Entity Framework / LINQ | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=22C55E) |
+| 🟨 Database Design & Optimization | ![85%](https://progress-bar.dev/85/?title=Strong&width=200&color=EAB308) |
+| 🟧 API Development (REST) | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=F97316) |
+| 🟪 Clean Architecture | ![75%](https://progress-bar.dev/75/?title=Good&width=200&color=A855F7) |
 
----
+</div>
 
-## 🏆 Goals  
-
-🚀 Master **.NET Development** end-to-end  
-🌍 Contribute to **open-source projects**  
-🏗️ Build a **Mini ERP System** or advanced **API platform**
-
----
 
 ## 📫 Connect With Me  
 

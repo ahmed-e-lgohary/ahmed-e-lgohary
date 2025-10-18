@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:3b82f6&height=180&section=header&text=Ahmed%20Elgohary&fontSize=45&fontAlign=50&fontAlignY=40&desc=Back-End%20Developer%20|%20Computer%20Science%20Student&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn)
+![Header](https://img.shields.io/badge/Ahmed%20Elgohary-Back--End%20Developer%20|%20Computer%20Science%20Student-0a0a0a?style=for-the-badge&logo=c-sharp&logoColor=22c55e&labelColor=1e293b)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="300" alt="profile image" />

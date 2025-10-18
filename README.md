@@ -29,20 +29,58 @@ I love working with **C#**, **.NET**, and **Entity Framework**, designing effici
 
 ## ⚙️ Tech Stack  
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
-  
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/><br/>
+        <small><strong>C#</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>
+        <small><strong>.NET</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>
+        <small><strong>Entity Framework</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/><br/>
+        <small><strong>SQL Server</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>
+        <small><strong>LINQ</strong></small>
+      </td>
+    </tr>
+  </table>
+
   <br>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/><br/>
+        <small><strong>Visual Studio</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br/>
+        <small><strong>VS Code</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+        <small><strong>Git</strong></small>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+        <small><strong>GitHub</strong></small>
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 ---

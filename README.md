@@ -30,7 +30,7 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
 <p align="center">
   <!-- Main Stack -->
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,vscode,git,github,postman,sqlserver,mongodb" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,visualstudio,vscode,git,github,postman,mysql,mongodb" />
 </p>
 
 <p align="center">

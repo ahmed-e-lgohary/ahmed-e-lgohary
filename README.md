@@ -1,5 +1,3 @@
-<!-- 🌑 Dark Mode GitHub Profile README -->
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="36%" alt="Ahmed Elgohary" style="border-radius: 50%; margin-right: 15px;" align="right"/>
   <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Ahmed Elgohary</span></h1>
@@ -7,6 +5,9 @@
     <img src="https://img.shields.io/badge/Field-Computer%20Science-22c55e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20APIs%20%7C%20EF%20Core-181717?style=for-the-badge" />
 </div>
+
+
+
 
 
 ### 🧠 About Me  

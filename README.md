@@ -1,10 +1,7 @@
-![Header](https://img.shields.io/badge/$%20whoami-Ahmed%20Elgohary-1e1e1e?style=for-the-badge&logo=windows-terminal&logoColor=22c55e)
-![Role](https://img.shields.io/badge/Role-Back--End%20Developer-3b82f6?style=for-the-badge)
-![Study](https://img.shields.io/badge/Field-Computer%20Science-22c55e?style=for-the-badge)
+![Header](https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1bcad64c-e84b-4c5b-8ac1-c72431adf4d7" width="300" alt="profile image" />
-</p>
+# 💻 Ahmed Elgohary  
+**Back-End Developer** | **Computer Science Student**
 
 ---
 
